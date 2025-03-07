@@ -30,7 +30,7 @@ Below are the list of the [Official Laravel Starter Kits](https://laravel.com/st
 
 ---
 
-## Community Submited Starter Kits
+## Community Submitted Starter Kits
 
 The following projects are community submitted starter kits, not associated with Laravel.
 
@@ -52,7 +52,7 @@ The following projects are community submitted starter kits, not associated with
 #### [Genesis Starter Kit](https://github.com/thedevdojo/genesis)
 
 ```
---using=thedevoj/genesis
+--using=devdojo/genesis
 ```
 
 #### [Larasonic](https://github.com/pushpak1300/Larasonic)
@@ -61,7 +61,7 @@ The following projects are community submitted starter kits, not associated with
 --using=pushpak1300/larasonic
 ```
 
-#### [TALL Starter](https://github.com/—using=mortenebak/tallstarter)
+#### [TALL Starter](https://github.com/mortenebak/tallstarter)
 
 ```
 --using=mortenebak/tallstarter
