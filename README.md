@@ -26,6 +26,7 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 - [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` - 💾 0 installs
 - [Modern Livewire Starter Kit](https://github.com/shipfastlabs/modern-livewire-starter-kit) - `shipfastlabs/modern-livewire-starter-kit` - 💾 0 installs
 - [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` - 💾 0 installs
+- [Static Analysis Starter Kit](https://github.com/peterfox/laravel-static-analysis-starter-kit) - `peterfox/laravel-static-analysis-starter-kit` - 💾 1 installs
 
 ---
 
