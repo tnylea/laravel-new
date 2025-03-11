@@ -14,6 +14,9 @@
         "Livewire Starter": "tnylea/livewire-starter",
         "Larasonic React": "shipfastlabs/larasonic-react",
         "Larasonic Vue": "shipfastlabs/larasonic-vue",
-        "TALL starters": "mortenebak/tallstarter"
+        "TALL starters": "mortenebak/tallstarter",
+        "Modern Livewire Starter Kit": "shipfastlabs/modern-livewire-starter-kit",
+        "Modern Vue Starter Kit": "shipfastlabs/modern-vue-starter-kit",
+        "Modern React Starter Kit": "shipfastlabs/modern-react-starter-kit",
     }
 }
