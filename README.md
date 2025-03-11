@@ -13,9 +13,9 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 ## Community Templates
 
 - [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` - 💾 133,328 installs
-- [Genesis](https://github.com/devdojo/genesis) - `devdojo/genesis` - 💾 8,688 installs
+- [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` - 💾 8,688 installs
 - [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` - 💾 405 installs
-- [Wave](https://github.com/devdojo/wave) - `devdojo/wave` - 💾 25 installs
+- [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 25 installs
 - [TALL starters](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 10 installs
 - [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 4 installs
 - [Livewire Starter](https://github.com/tnylea/livewire-starter) - `tnylea/livewire-starter` - 💾 2 installs
