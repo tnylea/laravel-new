@@ -84,6 +84,11 @@
             "title": "Modern React Starter Kit",
             "package": "shipfastlabs/modern-react-starter-kit",
             "repo": "shipfastlabs/modern-react-starter-kit"
+        },
+        {
+            "title": "React JSX Starter Kit",
+            "package": "YazidKHALDI/react-jsx-starter-kit",
+            "repo": "YazidKHALDI/react-jsx-starter-kit"
         }
     ]
 }
