@@ -84,6 +84,11 @@
             "title": "Modern React Starter Kit",
             "package": "shipfastlabs/modern-react-starter-kit",
             "repo": "shipfastlabs/modern-react-starter-kit"
+        },
+        {
+            "title": "Justd Starter Kit",
+            "package": "justd/laravel",
+            "repo": "justdlabs/inertia.ts"
         }
     ]
 }
