@@ -84,6 +84,11 @@
             "title": "Modern React Starter Kit",
             "package": "shipfastlabs/modern-react-starter-kit",
             "repo": "shipfastlabs/modern-react-starter-kit"
-        }
+        },
+        {
+            "title": "Unstyled Blade Starter Kit",
+            "package": "javdome/unstyled-blade-starter-kit",
+            "repo": "javdome/unstyled-blade-starter-kit"
+        }        
     ]
 }
