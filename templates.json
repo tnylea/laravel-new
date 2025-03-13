@@ -84,6 +84,11 @@
             "title": "Modern React Starter Kit",
             "package": "shipfastlabs/modern-react-starter-kit",
             "repo": "shipfastlabs/modern-react-starter-kit"
+        },
+        {
+            "title": "Minimal Laravel Starter Kit",
+            "package": "vanyamil/laravel-starter-minimum",
+            "repo": "vanyamil/laravel-starter-minimum"
         }
     ]
 }
