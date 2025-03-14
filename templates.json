@@ -84,6 +84,11 @@
             "title": "Modern React Starter Kit",
             "package": "shipfastlabs/modern-react-starter-kit",
             "repo": "shipfastlabs/modern-react-starter-kit"
+        },
+        {
+            "title": "Tablar Starter Kit",
+            "package": "takielias/tablar-starter-kit",
+            "repo": "takielias/tablar-starter-kit"
         }
     ]
 }
