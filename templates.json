@@ -89,6 +89,40 @@
             "title": "Laravel Static Analysis Starter Kit",
             "package": "peterfox/laravel-static-analysis-starter-kit",
             "repo": "peterfox/laravel-static-analysis-starter-kit"
+        },
+            "title": "React JSX Starter Kit",
+            "package": "YazidKHALDI/react-jsx-starter-kit",
+            "repo": "YazidKHALDI/react-jsx-starter-kit"
+        },
+        {
+            "title": "Unstyled Blade Starter Kit",
+            "package": "javdome/unstyled-blade-starter-kit",
+            "repo": "javdome/unstyled-blade-starter-kit"
+        },
+        {
+            "title": "Tablar Starter Kit",
+            "package": "takielias/tablar-starter-kit",
+            "repo": "takielias/tablar-starter-kit"
+        },
+        {
+            "title": "MoonShine",
+            "package": "moonshine/app",
+            "repo": "moonshine-software/app"
+        },
+        {
+            "title": "New Laravel React App",
+            "package": "tnylea/react-starter",
+            "repo": "tnylea/react-starter"
+        },
+        {
+            "title": "New Laravel Inertia+React App",
+            "package": "tnylea/react-inertia-starter",
+            "repo": "tnylea/react-inertia-starter"
+        },
+        {
+            "title": "Bootstrap Starter Kit",
+            "package": "hostmoz/laravel-bootstrap-starter-kit",
+            "repo": "hostmoz/laravel-bootstrap-starter-kit"
         }
     ]
 }
