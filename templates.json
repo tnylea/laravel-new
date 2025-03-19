@@ -90,5 +90,25 @@
             "package": "dcblogdev/laravel-admintw",
             "repo": "dcblogdev/laravel-admintw"
         }
+        {
+            "title": "React JSX Starter Kit",
+            "package": "YazidKHALDI/react-jsx-starter-kit",
+            "repo": "YazidKHALDI/react-jsx-starter-kit"
+        },
+        {
+            "title": "Unstyled Blade Starter Kit",
+            "package": "javdome/unstyled-blade-starter-kit",
+            "repo": "javdome/unstyled-blade-starter-kit"
+        },
+        {
+            "title": "Tablar Starter Kit",
+            "package": "takielias/tablar-starter-kit",
+            "repo": "takielias/tablar-starter-kit"
+        },
+        {
+            "title": "MoonShine",
+            "package": "moonshine/app",
+            "repo": "moonshine-software/app"
+        }
     ]
 }
