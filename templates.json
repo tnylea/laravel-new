@@ -124,6 +124,11 @@
             "title": "Blade Starter Kit (with FluxUI)",
             "package": "imacrayon/blade-starter-kit",
             "repo": "imacrayon/blade-starter-kit"
+        },
+        {
+            "title": "Feature Ninja React Starter Kit",
+            "package": "feature-ninja/react-starter-kit",
+            "repo": "feature-ninja/react-starter-kit"
         }
     ]
 }
