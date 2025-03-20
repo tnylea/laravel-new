@@ -154,6 +154,11 @@
             "title": "Tabler based Laravel starter kit",
             "package": "santosvilanculos/cuirass",
             "repo": "santosvilanculos/cuirass"
+        },
+        {
+            "title": "Feature Ninja React Starter Kit",
+            "package": "feature-ninja/react-starter-kit",
+            "repo": "feature-ninja/react-starter-kit"
         }
     ]
 }
