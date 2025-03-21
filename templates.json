@@ -124,6 +124,11 @@
             "title": "Blade Starter Kit (with FluxUI)",
             "package": "imacrayon/blade-starter-kit",
             "repo": "imacrayon/blade-starter-kit"
+        },
+        {
+            "title": "Glow Starter Kit (with filament and popular plugins)",
+            "package": "ercogx/laravel-filament-starter-kit",
+            "repo": "ercogx/laravel-filament-starter-kit"
         }
     ]
 }
