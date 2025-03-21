@@ -124,6 +124,11 @@
             "title": "Blade Starter Kit (with FluxUI)",
             "package": "imacrayon/blade-starter-kit",
             "repo": "imacrayon/blade-starter-kit"
+        },
+        {
+            "title": "React, Rector, Larastan/PHPStan, Pint & Pest Starter Kit",
+            "package": "cvtmal/laravel-react-starter",
+            "repo": "cvtmal/laravel-react-starter"
         }
     ]
 }
