@@ -144,6 +144,11 @@
             "title": "Justd Starter Kit",
             "package": "justd/laravel",
             "repo": "justdlabs/laravel"
+        },
+        {
+            "title": "CoreUI Vue Starter Kit",
+            "package": "kastsecho/coreui-vue-starter-kit",
+            "repo": "kastsecho/coreui-vue-starter-kit"
         }
     ]
 }
