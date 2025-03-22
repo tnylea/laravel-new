@@ -144,6 +144,11 @@
             "title": "Justd Starter Kit",
             "package": "justd/laravel",
             "repo": "justdlabs/laravel"
+        },
+        {
+            "title": "Filakit",
+            "package": "jeffersongoncalves/filakit",
+            "repo": "jeffersongoncalves/filakit"
         }
     ]
 }
