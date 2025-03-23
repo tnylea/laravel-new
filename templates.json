@@ -144,6 +144,11 @@
             "title": "Justd Starter Kit",
             "package": "justd/laravel",
             "repo": "justdlabs/laravel"
+        },
+        {
+            "title": "Zinc Starter Kit (TALL Stack)",
+            "package": "arifbudimanar/zinc-starter-kit",
+            "repo": "arifbudimanar/zinc-starter-kit"
         }
     ]
 }
