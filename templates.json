@@ -144,6 +144,11 @@
             "title": "Justd Starter Kit",
             "package": "justd/laravel",
             "repo": "justdlabs/laravel"
+        },
+        {
+            "title": "Feature Ninja React Starter Kit",
+            "package": "feature-ninja/react-starter-kit",
+            "repo": "feature-ninja/react-starter-kit"
         }
     ]
 }
