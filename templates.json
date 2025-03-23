@@ -126,6 +126,26 @@
             "repo": "imacrayon/blade-starter-kit"
         },
         {
+            "title": "React (Mantine) Starter Kit",
+            "package": "adrum/laravel-react-mantine-starter-kit",
+            "repo": "adrum/laravel-react-mantine-starter-kit"
+        },
+        {
+            "title": "Jetstream React (TypeScript)",
+            "package": "adrum/laravel-jetstream-react-typescript",
+            "repo": "adrum/laravel-jetstream-react-typescript"
+        },
+        {
+            "title": "Laravel Breeze React Starter Kit",
+            "package": "luis-developer-08/breeze-react-jsx-starter-kit",
+            "repo": "luis-developer-08/breeze-react-jsx-starter-kit"
+        },
+        {
+            "title": "Justd Starter Kit",
+            "package": "justd/laravel",
+            "repo": "justdlabs/laravel"
+        },
+        {
             "title": "Feature Ninja React Starter Kit",
             "package": "feature-ninja/react-starter-kit",
             "repo": "feature-ninja/react-starter-kit"
