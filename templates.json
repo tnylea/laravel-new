@@ -149,6 +149,11 @@
             "title": "CoreUI Vue Starter Kit",
             "package": "kastsecho/coreui-vue-starter-kit",
             "repo": "kastsecho/coreui-vue-starter-kit"
+        },
+        {
+            "title": "Filakit",
+            "package": "jeffersongoncalves/filakit",
+            "repo": "jeffersongoncalves/filakit"
         }
     ]
 }
