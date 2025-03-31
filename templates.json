@@ -149,6 +149,11 @@
             "title": "CoreUI Vue Starter Kit",
             "package": "kastsecho/coreui-vue-starter-kit",
             "repo": "kastsecho/coreui-vue-starter-kit"
+        },
+        {
+            "title": "Vue Webshop Starter Kit",
+            "package": "trickertreat654/laravel-webshop-starterkit",
+            "repo": "trickertreat654/laravel-webshop-starterkit"
         }
     ]
 }
