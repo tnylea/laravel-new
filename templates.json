@@ -154,6 +154,11 @@
             "title": "Tabler based Laravel starter kit",
             "package": "santosvilanculos/cuirass",
             "repo": "santosvilanculos/cuirass"
+        },
+        {
+            "title": "Vue Webshop Starter Kit",
+            "package": "trickertreat654/laravel-webshop-starterkit",
+            "repo": "trickertreat654/laravel-webshop-starterkit"
         }
     ]
 }
