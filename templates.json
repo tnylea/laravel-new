@@ -159,6 +159,11 @@
             "title": "Hotwire Starter Kit",
             "package": "hotwired-laravel/hotwire-starter-kit",
             "repo": "hotwired-laravel/hotwire-starter-kit"
+        },
+        {
+            "title": "VueJS DaisyUI Starter Kit",
+            "package": "marcos-aparicio/vue-daisyui-starter-kit",
+            "repo": "marcos-aparicio/vue-daisyui-starter-kit"
         }
     ]
 }
