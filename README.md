@@ -40,7 +40,7 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 - [CoreUI Vue Starter Kit](https://github.com/kastsecho/coreui-vue-starter-kit) - `kastsecho/coreui-vue-starter-kit` - 💾 9 installs
 - [Laravel Breeze React Starter Kit](https://github.com/luis-developer-08/breeze-react-jsx-starter-kit) - `luis-developer-08/breeze-react-jsx-starter-kit` - 💾 8 installs
 - [Tabler based Laravel starter kit](https://github.com/santosvilanculos/cuirass) - `santosvilanculos/cuirass` - 💾 6 installs
-- [New Laravel Inertia+React App](https://github.com/tnylea/react-inertia-starter) - `tnylea/react-inertia-starter` - 💾 0 installs
+- [New Laravel Inertia+React App](https://github.com/tnylea/react-inertia-starter) - `tnylea/react-inertia-starter` - 💾  installs
 
 ---
 
