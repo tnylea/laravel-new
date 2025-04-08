@@ -159,6 +159,11 @@
             "title": "Hotwire Starter Kit",
             "package": "hotwired-laravel/hotwire-starter-kit",
             "repo": "hotwired-laravel/hotwire-starter-kit"
+        },
+        {
+            "title": "Argon Laravel Starter Kit",
+            "package": "deifhelt/argon-laravel",
+            "repo": "StevenU21/argon"
         }
     ]
 }
