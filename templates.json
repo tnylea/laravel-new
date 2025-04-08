@@ -159,6 +159,11 @@
             "title": "Hotwire Starter Kit",
             "package": "hotwired-laravel/hotwire-starter-kit",
             "repo": "hotwired-laravel/hotwire-starter-kit"
+        },
+        {
+            "title": "API Only Starter Kit",
+            "package": "Samkaypro/laravel-api-starter",
+            "repo": "Samkaypro/laravel-api-starter"
         }
     ]
 }
