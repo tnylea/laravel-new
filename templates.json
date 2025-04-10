@@ -159,6 +159,11 @@
             "title": "Hotwire Starter Kit",
             "package": "hotwired-laravel/hotwire-starter-kit",
             "repo": "hotwired-laravel/hotwire-starter-kit"
+        },
+        {
+            "title": "Nuxt UI Starter",
+            "package": "stursby/nuxt-ui-starter",
+            "repo": "stursby/nuxt-ui-starter"
         }
     ]
 }
