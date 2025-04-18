@@ -86,6 +86,10 @@
             "repo": "shipfastlabs/modern-react-starter-kit"
         },
         {
+            "title": "Laravel Static Analysis Starter Kit",
+            "package": "peterfox/laravel-static-analysis-starter-kit",
+            "repo": "peterfox/laravel-static-analysis-starter-kit"
+        },
             "title": "React JSX Starter Kit",
             "package": "YazidKHALDI/react-jsx-starter-kit",
             "repo": "YazidKHALDI/react-jsx-starter-kit"
