@@ -42,6 +42,7 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 - [Laravel Breeze React Starter Kit](https://github.com/luis-developer-08/breeze-react-jsx-starter-kit) - `luis-developer-08/breeze-react-jsx-starter-kit` - 💾 8 installs
 - [New Laravel Inertia+React App](https://github.com/tnylea/react-inertia-starter) - `tnylea/react-inertia-starter` - 💾 6 installs
 - [Nuxt UI Starter](https://github.com/stursby/nuxt-ui-starter) - `stursby/nuxt-ui-starter` - 💾 4 installs
+- [API Starter Kit](https://github.com/hdeawy/api-starter-kit) - `hdeawy/api-starter-kit` - 💾 1 installs
 
 ---
 

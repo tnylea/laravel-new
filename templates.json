@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "Laravel API Starter Kit",
+            "package": "hdeawy/api-starter-kit",
+            "repo": "hdeawy/api-starter-kit"
         }
     ]
 }
