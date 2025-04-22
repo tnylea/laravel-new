@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "Retro Blade Starter",
+            "package": "adygcode/retro-blade-kit",
+            "repo": "adygcode/retro-blade-kit"
         }
     ]
 }
