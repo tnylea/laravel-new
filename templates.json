@@ -161,6 +161,11 @@
             "repo": "hotwired-laravel/hotwire-starter-kit"
         },
         {
+            "title": "Nuxt UI Starter",
+            "package": "stursby/nuxt-ui-starter",
+            "repo": "stursby/nuxt-ui-starter"
+        },
+        {
             "title": "VueJS DaisyUI Starter Kit",
             "package": "marcos-aparicio/vue-daisyui-starter-kit",
             "repo": "marcos-aparicio/vue-daisyui-starter-kit"
