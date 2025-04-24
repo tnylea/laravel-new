@@ -86,6 +86,11 @@
             "repo": "shipfastlabs/modern-react-starter-kit"
         },
         {
+            "title": "Laravel AdminTW",
+            "package": "dcblogdev/laravel-admintw",
+            "repo": "dcblogdev/laravel-admintw"
+        }
+        {
             "title": "React JSX Starter Kit",
             "package": "YazidKHALDI/react-jsx-starter-kit",
             "repo": "YazidKHALDI/react-jsx-starter-kit"
