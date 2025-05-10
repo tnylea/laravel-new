@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "Hyper Wire Starter Kit",
+            "package": "yehuuu6/hyperwire",
+            "repo": "yehuuu6/hyperwire"
         }
     ]
 }
