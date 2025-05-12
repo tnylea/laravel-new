@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "Billing Starter Kit (Laravel Cashier + React + Chargebee)",
+            "package": "chargebee/cashier",
+            "repo": "chargebee/cashier-chargebee"
         }
     ]
 }
