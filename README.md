@@ -22,7 +22,7 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 - [Blade Starter Kit (with FluxUI)](https://github.com/imacrayon/blade-starter-kit) - `imacrayon/blade-starter-kit` - 💾 196 installs
 - [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 167 installs
 - [React JSX Starter Kit](https://github.com/YazidKHALDI/react-jsx-starter-kit) - `YazidKHALDI/react-jsx-starter-kit` - 💾 121 installs
-- [Justd Starter Kit](https://github.com/justdlabs/laravel) - `justd/laravel` - 💾 85 installs
+- [Intent UI Starter Kit](https://github.com/justdlabs/laravel) - `intentui/laravel` - 💾 85 installs
 - [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 76 installs
 - [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` - 💾 73 installs
 - [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` - 💾 66 installs
