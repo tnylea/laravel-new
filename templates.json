@@ -165,5 +165,10 @@
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
         }
+        {
+            "title": "Flowbite Livewire Starter Kit",
+            "package": "macdanson/flowbite-livewire-starter-kit",
+            "repo": "macdanson/flowbite-livewire-starter-kit"
+        }
     ]
 }
